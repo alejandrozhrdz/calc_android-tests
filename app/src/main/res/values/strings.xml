@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">EZ_Dummie_Calculator</string>
+    <string name="calc.hint.input">Introducir Transacción</string>
+    <string name="calc.btn.seven">7</string>
+    <string name="calc.btn.four">4</string>
+    <string name="calc.btn.one">1</string>
+    <string name="calc.btn.point">.</string>
+    <string name="calc.btn.eight">8</string>
+    <string name="calc.btn.five">5</string>
+    <string name="calc.btn.two">2</string>
+    <string name="calc.btn.zero">0</string>
+    <string name="calc.btn.clear">C</string>
+    <string name="calc.btn.nine">9</string>
+    <string name="calc.btn.six">6</string>
+    <string name="calc.btn.div">÷</string>
+    <string name="calc.btn.mult">x</string>
+    <string name="calc.btn.sum">+</string>
+    <string name="calc.btn.minus">-</string>
+    <string name="calc.btn.tree">3</string>
+    <string name="btnResult">=</string>
+
+    <string name="message.exp.incorrect" >La expresión es incorrecta</string>
+</resources>
